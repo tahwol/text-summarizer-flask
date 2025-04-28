@@ -1,0 +1,5 @@
+flask
+transformers
+torch
+arabic-reshaper
+python-bidi
